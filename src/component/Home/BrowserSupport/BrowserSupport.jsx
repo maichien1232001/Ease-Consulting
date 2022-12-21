@@ -39,7 +39,6 @@ const BrowserSupport = () => {
                     style={{
                         textTransform: 'uppercase', color: 'secondary', color: '#777777', fontSize:24, marginTop:72, fontWeight:600,
                     }}
-                    gutterBottom
                     
                 >
                     Compatibility
@@ -73,7 +72,6 @@ const BrowserSupport = () => {
                                 />
                                 <Typography
                                     variant={'h6'}
-                                    gutterBottom
                                     fontWeight={500}
                                     align={'center'}
                                 >
