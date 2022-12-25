@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React from 'react';
 import { Link } from "react-router-dom";
 import './Navbar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -6,11 +6,9 @@ import { faBuffer } from '@fortawesome/free-brands-svg-icons';
 import { useState } from 'react';
 import { useEffect } from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
-import { UserContext } from '../../../App';
 
 
 const NavBar = () => {
-    const { user } = useContext(UserContext)
     const [isSticky, setSticky] = useState(false)
 
     useEffect(() => {
