@@ -37,7 +37,7 @@ const BrowserSupport = () => {
             <Box marginBottom={0} textAlign={'center'} >
                 <p
                     style={{
-                        textTransform: 'uppercase', color: 'secondary', color: '#777777', fontSize:24, marginTop:72, fontWeight:600,
+                        textTransform: 'uppercase', color: 'secondary', fontSize:24, marginTop:72, fontWeight:600,
                     }}
                     
                 >
