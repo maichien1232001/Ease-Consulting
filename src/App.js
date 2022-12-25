@@ -5,7 +5,6 @@ import {
 } from "react-router-dom";
 import React, { createContext, useState } from 'react'
 import About from './component/Home/About/About';
-import NotFound from './component/NotFound';
 export const UserContext = createContext();
 
 const App = () => {
@@ -17,7 +16,6 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="*" element={<NotFound/>}/> 
         </Routes>
       </div>
     </UserContext.Provider>
