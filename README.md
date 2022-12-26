@@ -106,6 +106,4 @@ What you get here:
 
 ## Contact
 
-ujjal zaman - [Linkdeind](www.linkedin.com/in/ujjal-zaman)
-
-Project Link: [https://github.com/Ujjalzaman/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
+Project Link: [https://github.com/maichien1232001/Ease-Consulting](https://github.com/maichien1232001/Ease-Consulting)
