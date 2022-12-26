@@ -8,13 +8,12 @@ import About from './component/Home/About/About';
 
 const App = () => {
   return (
-
-      <div>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-        </Routes>
-      </div>
+    <div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+      </Routes>
+    </div>
   )
 }
 
