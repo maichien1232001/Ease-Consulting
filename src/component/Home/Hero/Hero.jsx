@@ -8,6 +8,7 @@ import Button from '@mui/material/Button';
 import Grid from '@mui/material/Grid';
 import Typed from 'react-typed';
 
+
 const Hero = () => {
     const theme = useTheme();
 
