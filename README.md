@@ -10,9 +10,6 @@
   <p align="center">
     A Technonogly agency fullstack website build in react, mui , bootstrap and nodejs 
     <br />
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react"><strong>Explore the code here »</strong></a>
-    <br />
-    <a href="https://github.com/Ujjalzaman/easy-consult-server-express-mongo"><strong>Backend code here »</strong></a>
     <br />
     <a href="https://wonderful-kowalevski-8c905c.netlify.app/">View Demo</a>
     ·
@@ -32,7 +29,7 @@
 - [Material-UI](https://material-ui.com/)
 - [Webpack](https://webpack.js.org/)
 - [FileSaver](https://www.npmjs.com/package/file-saver)
-- [React-Bootstrape](#)
+- [React-Bootstrap](#)
 - [Context API](#)
 - [stripe](#)
 - [React-router-dom v-6](#)
