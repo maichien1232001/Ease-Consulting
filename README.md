@@ -11,11 +11,7 @@
     A Technonogly agency fullstack website build in react, mui , bootstrap and nodejs 
     <br />
     <br />
-    <a href="https://wonderful-kowalevski-8c905c.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Request Feature</a>
+    <a href="https://easy-consulting-blond.vercel.app//">View Demo</a>
   </p>
 </div>
 
@@ -44,7 +40,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ujjalzaman/Easy-Consulting-react
+   git clone https://github.com/maichien1232001/Ease-Consulting
    ```
 2. Install NPM packages
    ```sh
